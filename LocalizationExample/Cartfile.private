@@ -1,0 +1,8 @@
+# AlamoFire, HTTP MAnager
+#github "Alamofire/Alamofire" ~> 4.3
+
+# SwiftyJSON
+#github "SwiftyJSON/SwiftyJSON" ~> 4.0
+
+# ResearchKit fork
+git "git@github.com:digitalinfuzion-corporate/ResearchKit.git" "master"

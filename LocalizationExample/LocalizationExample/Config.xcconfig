@@ -1,0 +1,9 @@
+//
+//  Config.xcconfig
+//  LocalizationExample
+//
+//  Created by Arpit Soni on 7/25/18.
+//  Copyright © 2018 Arpit Soni. All rights reserved.
+//
+
+LOCALIZATIONS = en,hi
